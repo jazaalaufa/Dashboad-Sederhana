@@ -1,0 +1,12 @@
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\bin\Debug\Dashboard Aplikasi Warung Q-Ta.exe.config
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\bin\Debug\Dashboard Aplikasi Warung Q-Ta.exe
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\bin\Debug\Dashboard Aplikasi Warung Q-Ta.pdb
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard Aplikasi Warung Q-Ta.csprojResolveAssemblyReference.cache
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard_Aplikasi_Warung_Q_Ta.Properties.Resources.resources
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard Aplikasi Warung Q-Ta.csproj.GenerateResource.Cache
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard Aplikasi Warung Q-Ta.exe
+c:\users\bismillah\documents\visual studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard Aplikasi Warung Q-Ta.pdb
+c:\Users\Bismillah\Documents\Visual Studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard_Aplikasi_Warung_Q_Ta.landing.resources
+c:\Users\Bismillah\Documents\Visual Studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard_Aplikasi_Warung_Q_Ta.das.resources
+c:\Users\Bismillah\Documents\Visual Studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard_Aplikasi_Warung_Q_Ta.login.resources
+c:\Users\Bismillah\Documents\Visual Studio 2013\Projects\Dashboard Aplikasi Warung Q-Ta\Dashboard Aplikasi Warung Q-Ta\obj\Debug\Dashboard_Aplikasi_Warung_Q_Ta.regis.resources
