@@ -1,6 +1,6 @@
-# PEMROGRAMAN VISUAL
+# Tugas-Kelompok
 
-Anggota Kelompok :
+PEMROGRAMAN VISUAL
 
 1. Jeptika Herni Niasmara   (18051204004)
 2. Muhammad Jazaal Aufa     (18051204013)
